@@ -1,0 +1,38 @@
+.container {  
+  max-width: 1250px;  
+  width: 400%;  
+  margin: 20px;  
+  height: auto;  
+  display: block;  
+}  
+  
+body {  
+  background-color: #fafaff;
+
+  font-size: 15px;  
+  font-family: Arial;  
+}  
+  
+  h1 {  text-align : center;
+   	 color :#020085 ;
+
+}
+  
+h2 {  
+  	 color :#020085 ;
+
+}  
+			
+.form_group {  
+  padding: 6.5px;  
+display: block;  
+}  
+  
+label {  
+  float: left;  
+  padding-right: 50px;  
+  line-height: 10%;  
+  display: block;  
+  width: 208px;  color : #0400ff;
+}   
+
